@@ -11,7 +11,7 @@ You can use this to print a map from a game file. For instance:
 
 ```javascript
 // app.js
-console.log(require('./jsi-gamelib').map(require(process.argv[2])));
+console.log(require('jsi-gamelib').map(require(process.argv[2])));
 ```
 
 Now you can run `node app.js game.json` to produce:
