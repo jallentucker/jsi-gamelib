@@ -30,7 +30,7 @@ Now you can run `node app.js game.json` to produce:
     |         |         |         |          
     +---   ---+---   ---+---------+          
     |         |         |         |          
-    |    A         B    |    C    |          
+    |    A         B         C    |          
     |         |         |         |          
     +---------+--  ^  --+---------+          
 
