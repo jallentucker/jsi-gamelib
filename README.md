@@ -49,7 +49,7 @@ map):
         {
           "name": "B",
           "north": "E",
-          "east": null,
+          "east": "C",
           "south": null,
           "west": "A",
           "entrance": "south"
